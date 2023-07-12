@@ -48,3 +48,25 @@ These authentication methods provide flexibility and security for accessing GitH
 [*source*] 
 - *Slide 3.1 Introduction to GIT* (https://docs.google.com/presentation/d/1fBuWjR94G7T86DJOH100DnufQihoBXY0O-YHqEhqk_0/edit#slide=id.g228027d5e89_0_145)
 - *Git Cheat Sheet* (https://education.github.com/git-cheat-sheet-education.pdf)
+
+### What are the 4 Github commands that you think you will use the most in the real project and why? Explain it on the readme file.
+
+1. *Git add .* 
+```
+We need this command to add all the files in the local repository to be pushed into Github.   
+```
+
+2. *git clone*
+```
+Download the github repo locally so that we can work on it.
+```
+
+3. *git commit -m "comments"*
+```
+Stage the local files to be pushed into Github repo
+```
+
+4. *git push*
+```
+Pushes the local repo into github repo
+```
